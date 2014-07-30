@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" name="Failed suite [Test on Xiamin]">
+  <parameter name="browserFlagO" value="chrome"/>
+  <parameter name="runningOnGrid" value="false"/>
+  <parameter name="hubHost" value="localhost"/>
+  <parameter name="hubPort" value="4458"/>
+  <test name="create test - IE(failed)">
+    <parameter name="runningOnGrid" value="false"/>
+    <parameter name="browserFlagO" value="ie"/>
+    <parameter name="hubHost" value="localhost"/>
+    <parameter name="hubPort" value="4458"/>
+    <groups>
+      <run>
+        <include name="IEWin32"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.testcases.TC01_Login">
+        <methods>
+          <include name="loginSucess"/>
+          <include name="setUpBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testcases.TC01_Login -->
+    </classes>
+  </test> <!-- create test - IE(failed) -->
+</suite> <!-- Failed suite [Test on Xiamin] -->

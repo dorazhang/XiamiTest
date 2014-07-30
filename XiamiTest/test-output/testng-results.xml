@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26936" started-at="2014-07-28T10:44:28Z" finished-at="2014-07-28T10:44:54Z">
+    <groups>
+      <group name="firefox">
+        <method signature="TC01_Login.loginSucess()[pri:0, instance:com.testcases.TC01_Login@1c5d9084]" name="loginSucess" class="com.testcases.TC01_Login"/>
+      </group> <!-- firefox -->
+    </groups>
+    <test name="Default test" duration-ms="26936" started-at="2014-07-28T10:44:28Z" finished-at="2014-07-28T10:44:54Z">
+      <class name="com.testcases.TC01_Login">
+        <test-method status="PASS" signature="setUpBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcases.TC01_Login@1c5d9084]" name="setUpBrowser" is-config="true" duration-ms="6973" started-at="2014-07-28T18:44:28Z" finished-at="2014-07-28T18:44:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="loginSucess()[pri:0, instance:com.testcases.TC01_Login@1c5d9084]" name="loginSucess" duration-ms="17639" started-at="2014-07-28T18:44:34Z" finished-at="2014-07-28T18:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSucess -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.TC01_Login@1c5d9084]" name="tearDown" is-config="true" duration-ms="2311" started-at="2014-07-28T18:44:52Z" finished-at="2014-07-28T18:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.TC01_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

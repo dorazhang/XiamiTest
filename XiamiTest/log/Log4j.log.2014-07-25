@@ -1,0 +1,51 @@
+[14/07/25 15:11:44][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/25 15:11:44][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/25 15:11:44][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/25 15:11:54][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/25 15:11:54][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/25 15:12:04][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (0819b3bd-6728-4c18-968b-413340323de9)] -> xpath: //a[@class='first']]
+[14/07/25 15:12:04][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/25 15:12:06][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/25 15:12:06][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/25 15:12:07][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/25 15:12:07][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (0819b3bd-6728-4c18-968b-413340323de9)] -> xpath: //*[@id='submit']]
+[14/07/25 15:15:31][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/25 15:15:31][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/25 15:15:31][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/25 15:15:43][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/25 15:15:43][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/25 15:15:48][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (3942f76e-7ccb-452f-90c9-327e7c79405b)] -> xpath: //a[@class='first']]
+[14/07/25 15:15:49][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/25 15:15:50][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/25 15:15:50][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/25 15:15:50][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/25 15:15:50][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (3942f76e-7ccb-452f-90c9-327e7c79405b)] -> xpath: //*[@id='submit']]
+[14/07/25 16:03:57][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/25 16:03:57][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/25 16:03:57][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/25 16:04:08][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/25 16:04:08][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/25 16:04:27][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (4c708713-4b14-4f91-8119-f875aed2fd47)] -> xpath: //a[@class='first']]
+[14/07/25 16:04:29][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/25 16:04:32][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/25 16:04:32][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/25 16:04:33][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/25 16:04:33][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (4c708713-4b14-4f91-8119-f875aed2fd47)] -> xpath: //*[@id='submit']]
+[14/07/25 16:04:42][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.selector: b.icon user
+[14/07/25 16:05:51][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/25 16:05:51][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/25 16:05:51][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/25 16:05:59][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/25 16:05:59][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/25 16:06:15][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (cc9f0269-5fb8-4752-a6d8-04d110aaae64)] -> xpath: //a[@class='first']]
+[14/07/25 16:06:17][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/25 16:06:22][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/25 16:06:22][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/25 16:06:22][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/25 16:06:22][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (cc9f0269-5fb8-4752-a6d8-04d110aaae64)] -> xpath: //*[@id='submit']]
+[14/07/25 16:06:28][INFO][com.util.Page-27] expected title=????
+[14/07/25 16:06:35][INFO][com.util.Page-28] actual title=????
+[14/07/25 16:06:35][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (cc9f0269-5fb8-4752-a6d8-04d110aaae64)] -> css selector: #usr_top > ul > li:nth-child(3) > a]
+[14/07/25 16:06:37][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (cc9f0269-5fb8-4752-a6d8-04d110aaae64)] -> css selector: a.reupload]
+[14/07/25 16:06:37][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #picture from '' to 'C:\Users\dora.zhang\Desktop\IMG_2010.JPG'
+[14/07/25 16:06:37][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (cc9f0269-5fb8-4752-a6d8-04d110aaae64)] -> css selector: #reupload_div > form > p.acts > input]

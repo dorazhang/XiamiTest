@@ -1,0 +1,749 @@
+[14/07/28 10:45:50][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 10:45:50][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 10:45:50][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 10:46:07][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 10:46:07][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.selector: #search > input.keyword
+[14/07/28 10:47:03][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 10:47:03][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 10:47:03][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 10:47:14][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 10:47:14][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 10:47:23][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (b47eace7-d7c5-4363-af13-7dc7bc8652a8)] -> xpath: //a[@class='first']]
+[14/07/28 10:47:24][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 10:47:25][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 10:47:25][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 10:47:27][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 10:47:27][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (b47eace7-d7c5-4363-af13-7dc7bc8652a8)] -> xpath: //*[@id='submit']]
+[14/07/28 10:47:31][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 10:51:28][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 10:51:28][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 10:51:28][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 10:51:36][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 10:51:37][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 10:51:45][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (f9b9c361-6f3a-4522-a1ae-410ac17e8543)] -> xpath: //a[@class='first']]
+[14/07/28 10:51:47][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 10:51:49][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 10:51:49][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 10:51:50][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 10:51:50][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (f9b9c361-6f3a-4522-a1ae-410ac17e8543)] -> xpath: //*[@id='submit']]
+[14/07/28 10:51:56][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 10:56:05][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 10:56:05][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 10:56:05][INFO][com.util.TestCaseBase-103] browserFlag=ChromeWin32
+[14/07/28 11:01:55][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:01:55][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:01:55][INFO][com.util.TestCaseBase-103] browserFlag=chrome
+[14/07/28 11:02:02][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 11:02:02][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 11:02:21][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[ChromeDriver: chrome on XP (97b3c647f55f00a943f945fdf5e98744)] -> xpath: //a[@class='first']]
+[14/07/28 11:02:28][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 11:02:28][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 11:02:28][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 11:02:28][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 11:02:28][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[ChromeDriver: chrome on XP (97b3c647f55f00a943f945fdf5e98744)] -> xpath: //*[@id='submit']]
+[14/07/28 11:02:36][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.selector: #search > input.keyword
+[14/07/28 11:07:06][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:07:06][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:07:06][INFO][com.util.TestCaseBase-103] browserFlag=chrome
+[14/07/28 11:07:10][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 11:07:10][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 11:07:20][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[ChromeDriver: chrome on XP (8311775ea3b3748bfc9babf4947a0b43)] -> xpath: //a[@class='first']]
+[14/07/28 11:07:23][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 11:07:23][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 11:07:23][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 11:07:23][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 11:07:23][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[ChromeDriver: chrome on XP (8311775ea3b3748bfc9babf4947a0b43)] -> xpath: //*[@id='submit']]
+[14/07/28 11:07:27][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.selector: #search > input.keyword
+[14/07/28 11:08:20][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:08:20][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:08:20][INFO][com.util.TestCaseBase-103] browserFlag=chrome
+[14/07/28 11:08:24][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 11:08:24][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 11:08:30][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[ChromeDriver: chrome on XP (bb1c72aac8d21597aa33b1e36bea936f)] -> xpath: //a[@class='first']]
+[14/07/28 11:08:32][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 11:08:32][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 11:08:32][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 11:08:33][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 11:08:33][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[ChromeDriver: chrome on XP (bb1c72aac8d21597aa33b1e36bea936f)] -> xpath: //*[@id='submit']]
+[14/07/28 11:08:35][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 11:08:35][ERROR][com.util.LogWebDriverEventListener-43] WebDriver error:
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=36.0.1985.125)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 35 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_41'
+Session ID: bb1c72aac8d21597aa33b1e36bea936f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\DORA~1.ZHA\AppData\Local\Temp\scoped_dir7252_8136}, rotatable=false, locationContextEnabled=true, version=36.0.1985.125, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:187)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:152)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:327)
+	at com.sun.proxy.$Proxy13.getText(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.getText(EventFiringWebDriver.java:377)
+	at com.basepages.Loadingpage.searchResult(Loadingpage.java:60)
+	at com.testcases.TC01_Login.loginSucess(TC01_Login.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+[14/07/28 11:08:59][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:08:59][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:08:59][INFO][com.util.TestCaseBase-103] browserFlag=chrome
+[14/07/28 11:09:02][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 11:09:02][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 11:09:09][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[ChromeDriver: chrome on XP (d31c135e883206dcca92c30f2888bb2c)] -> xpath: //a[@class='first']]
+[14/07/28 11:10:32][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:10:32][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:10:32][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 11:10:42][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 11:10:42][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 11:10:47][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (2d3db7c6-7f67-4d0c-9cbe-135d814ad9a1)] -> xpath: //a[@class='first']]
+[14/07/28 11:10:49][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 11:10:51][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 11:10:51][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 11:10:51][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 11:10:51][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (2d3db7c6-7f67-4d0c-9cbe-135d814ad9a1)] -> xpath: //*[@id='submit']]
+[14/07/28 11:10:55][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 11:10:58][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:10:58][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:10:58][INFO][com.util.TestCaseBase-103] browserFlag=chrome
+[14/07/28 11:11:01][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 11:11:01][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 11:11:12][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[ChromeDriver: chrome on XP (bfdb16138ddbd1411ec03d215fa155e9)] -> xpath: //a[@class='first']]
+[14/07/28 11:11:14][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 11:11:14][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 11:11:14][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 11:11:14][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 11:11:14][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[ChromeDriver: chrome on XP (bfdb16138ddbd1411ec03d215fa155e9)] -> xpath: //*[@id='submit']]
+[14/07/28 11:11:18][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 11:13:22][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:13:22][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:13:22][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 11:14:00][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:14:00][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:14:00][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 11:15:59][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:15:59][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:15:59][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 11:20:07][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:20:07][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:20:07][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 11:23:37][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:23:37][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:23:37][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 11:24:40][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:24:40][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:24:40][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 11:31:05][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 11:31:05][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 11:31:05][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 12:38:50][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 12:38:50][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 12:38:50][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 13:35:26][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 13:35:26][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 13:35:26][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 13:35:29][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 13:35:29][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 13:35:29][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 13:35:29][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 13:35:39][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (10b59a56-59e7-4a8a-81c1-8bb379cc798c)] -> xpath: //a[@class='first']]
+[14/07/28 13:35:45][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 13:35:45][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 13:35:46][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 13:35:46][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 13:35:46][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (10b59a56-59e7-4a8a-81c1-8bb379cc798c)] -> xpath: //*[@id='submit']]
+[14/07/28 13:35:50][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.selector: #search > input.keyword
+[14/07/28 13:37:00][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 13:37:00][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 13:37:00][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 13:37:03][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 13:37:03][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 13:37:03][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 13:37:03][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 13:37:11][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (9f79b5fe-adc9-4498-8729-2780caa06f30)] -> xpath: //a[@class='first']]
+[14/07/28 13:37:12][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 13:37:12][INFO][com.util.Page-28] actual title=?????(xiami.com) - ?????????
+[14/07/28 13:37:37][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 13:37:37][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 13:37:37][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 13:37:40][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 13:37:40][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 13:37:40][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 13:37:40][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 13:37:43][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (d43d9e1d-78d9-43ce-ba09-dbecfc726c78)] -> xpath: //a[@class='first']]
+[14/07/28 13:37:43][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 13:37:43][INFO][com.util.Page-28] actual title=?????(xiami.com) - ?????????
+[14/07/28 13:39:28][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 13:39:28][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 13:39:28][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 13:39:31][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 13:39:31][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 13:39:31][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 13:39:31][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 13:39:35][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (f19732b3-a51e-4c75-8404-c15e9ade9d77)] -> xpath: //a[@class='first']]
+[14/07/28 13:39:35][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 13:39:35][INFO][com.util.Page-28] actual title=?????(xiami.com) - ?????????
+[14/07/28 14:28:01][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 14:28:01][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 14:28:01][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 14:28:04][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 14:28:04][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 14:28:04][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 14:28:04][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 14:28:08][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (615873e4-95b8-418d-bbc9-1d5f16bcce37)] -> xpath: //a[@class='first']]
+[14/07/28 14:28:14][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 14:28:14][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 14:28:15][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 14:28:15][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 14:28:15][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (615873e4-95b8-418d-bbc9-1d5f16bcce37)] -> xpath: //*[@id='submit']]
+[14/07/28 14:28:19][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 14:44:54][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 14:44:54][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 14:44:54][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 14:44:57][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 14:44:57][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 14:44:57][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 14:44:57][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 14:45:02][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (c5f1531d-e733-4eea-b065-999393454658)] -> xpath: //a[@class='first']]
+[14/07/28 14:45:02][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 14:45:02][INFO][com.util.Page-28] actual title=?????(xiami.com) - ?????????
+[14/07/28 14:47:13][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 14:47:13][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 14:47:13][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 14:47:16][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 14:47:16][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 14:47:16][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 14:47:16][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 14:47:19][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (93ba44ff-f5d5-4f01-bb08-ad281c9927a0)] -> xpath: //a[@class='first']]
+[14/07/28 14:47:23][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 14:47:23][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 14:47:24][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 14:47:24][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 14:47:24][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (93ba44ff-f5d5-4f01-bb08-ad281c9927a0)] -> xpath: //*[@id='submit']]
+[14/07/28 14:47:28][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 14:55:53][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 14:55:53][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 14:55:53][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 14:55:56][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 14:55:56][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 14:55:56][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 14:55:56][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 14:55:59][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (3ffde543-5af8-46d7-b14c-101bd9a00e75)] -> xpath: //a[@class='first']]
+[14/07/28 14:55:59][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 14:55:59][INFO][com.util.Page-28] actual title=?????(xiami.com) - ?????????
+[14/07/28 14:57:02][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 14:57:02][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 14:57:02][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 14:57:05][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 14:57:05][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 14:57:05][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 14:57:05][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 14:57:08][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (4dc50658-7e88-4bf1-bbcd-a755ededd69f)] -> xpath: //a[@class='first']]
+[14/07/28 14:57:11][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 14:57:11][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 14:57:11][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 14:57:12][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 14:57:12][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (4dc50658-7e88-4bf1-bbcd-a755ededd69f)] -> xpath: //*[@id='submit']]
+[14/07/28 14:57:16][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 15:01:30][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 15:01:30][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 15:01:30][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 15:01:33][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 15:01:33][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 15:01:33][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 15:01:33][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 15:01:36][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (0b7de510-0086-4906-82e4-016456aa3779)] -> xpath: //a[@class='first']]
+[14/07/28 15:01:36][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 15:01:36][INFO][com.util.Page-28] actual title=?????(xiami.com) - ?????????
+[14/07/28 15:08:31][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 15:08:31][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 15:08:31][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 15:08:34][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 15:08:34][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 15:08:34][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 15:08:34][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 15:08:35][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (3a30ae3a-15eb-401a-bf00-8b68ee81b6e3)] -> xpath: //a[@class='first']]
+[14/07/28 15:08:38][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 15:08:39][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 15:08:39][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 15:08:40][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 15:08:40][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (3a30ae3a-15eb-401a-bf00-8b68ee81b6e3)] -> xpath: //*[@id='submit']]
+[14/07/28 15:08:44][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 15:20:26][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 15:20:26][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 15:20:26][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 15:20:28][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 15:20:28][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 15:20:28][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 15:20:28][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 15:20:30][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (ad43803f-1abc-4214-b93f-2dcdd5ed3289)] -> xpath: //a[@class='first']]
+[14/07/28 15:20:30][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 15:20:30][INFO][com.util.Page-28] actual title=?????(xiami.com) - ?????????
+[14/07/28 16:11:12][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 16:11:12][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 16:11:12][INFO][com.util.TestCaseBase-103] browserFlag=ie
+[14/07/28 16:11:15][INFO][org.apache.http.impl.client.DefaultRequestDirector-723] I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+[14/07/28 16:11:15][INFO][org.apache.http.impl.client.DefaultRequestDirector-730] Retrying request
+[14/07/28 16:11:15][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 16:11:15][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 16:11:18][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[InternetExplorerDriver: internet explorer on WINDOWS (15eb008a-8f07-4331-9480-fc3774677a90)] -> xpath: //a[@class='first']]
+[14/07/28 16:11:18][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 16:11:18][INFO][com.util.Page-28] actual title=?????(xiami.com) - ?????????
+[14/07/28 16:55:21][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 16:55:21][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 16:55:21][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 16:55:32][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 16:55:32][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 16:55:39][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (44e26984-8395-42c0-ace1-08c7e3e3d091)] -> xpath: //a[@class='first']]
+[14/07/28 16:55:40][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 16:55:41][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 16:55:42][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 16:55:42][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 16:55:42][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (44e26984-8395-42c0-ace1-08c7e3e3d091)] -> xpath: //*[@id='submit']]
+[14/07/28 16:55:45][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 17:12:19][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 17:12:19][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 17:12:19][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 17:12:28][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 17:12:28][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 17:12:38][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (f47a11c2-4a38-485a-bf76-ffb13f83d3d3)] -> xpath: //a[@class='first']]
+[14/07/28 17:12:39][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 17:12:41][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 17:12:41][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 17:12:42][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 17:12:42][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (f47a11c2-4a38-485a-bf76-ffb13f83d3d3)] -> xpath: //*[@id='submit']]
+[14/07/28 17:12:49][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 17:13:14][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 17:14:58][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 17:14:58][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 17:14:58][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 17:15:06][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 17:15:06][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 17:15:11][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (0488bda5-75d5-43db-ad0f-a50e249cfa46)] -> xpath: //a[@class='first']]
+[14/07/28 17:15:12][INFO][com.util.Page-27] expected title=???(xiami.com) - ?????????
+[14/07/28 17:15:16][INFO][com.util.Page-28] actual title=???(xiami.com) - ?????????
+[14/07/28 17:15:16][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 17:15:16][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 17:15:16][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (0488bda5-75d5-43db-ad0f-a50e249cfa46)] -> xpath: //*[@id='submit']]
+[14/07/28 17:15:19][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '??'
+[14/07/28 17:15:24][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 17:22:14][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 17:22:14][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 17:22:14][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 17:22:22][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 17:22:22][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 17:22:30][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (d840b0fa-7cdd-4044-b663-6a4351eb3c74)] -> xpath: //a[@class='first']]
+[14/07/28 17:22:31][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 17:22:33][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 17:22:33][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 17:22:33][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 17:22:33][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (d840b0fa-7cdd-4044-b663-6a4351eb3c74)] -> xpath: //*[@id='submit']]
+[14/07/28 17:22:37][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 17:22:42][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 17:38:33][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 17:38:33][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 17:38:33][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 17:38:42][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 17:38:42][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 17:38:46][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (d565229a-56b2-4b1c-8385-99b709766eb6)] -> xpath: //a[@class='first']]
+[14/07/28 17:38:47][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 17:38:48][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 17:38:48][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 17:38:48][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 17:38:48][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (d565229a-56b2-4b1c-8385-99b709766eb6)] -> xpath: //*[@id='submit']]
+[14/07/28 17:38:51][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 17:38:51][ERROR][com.util.LogWebDriverEventListener-43] WebDriver error:
+org.openqa.selenium.StaleElementReferenceException: Element is no longer attached to the DOM
+Command duration or timeout: 163 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_41'
+Session ID: d565229a-56b2-4b1c-8385-99b709766eb6
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=14.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:187)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.findElement(RemoteWebElement.java:171)
+	at org.openqa.selenium.remote.RemoteWebElement.findElementByTagName(RemoteWebElement.java:260)
+	at org.openqa.selenium.By$ByTagName.findElement(By.java:320)
+	at org.openqa.selenium.remote.RemoteWebElement.findElement(RemoteWebElement.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:327)
+	at com.sun.proxy.$Proxy13.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.findElement(EventFiringWebDriver.java:398)
+	at com.basepages.Loadingpage.searchResult(Loadingpage.java:60)
+	at com.testcases.TC01_Login.loginSucess(TC01_Login.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Element is no longer attached to the DOM
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_41'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(resource://fxdriver/modules/web_element_cache.js:7237)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7592888187135987563webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:6839)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7592888187135987563webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8271)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7592888187135987563webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8293)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7592888187135987563webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10272)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7592888187135987563webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10277)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7592888187135987563webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10217)
+[14/07/28 17:40:35][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 17:40:35][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 17:40:35][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 17:40:42][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 17:40:42][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 17:40:47][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (d8ca619b-3d34-480e-af9a-616672a8b04b)] -> xpath: //a[@class='first']]
+[14/07/28 17:40:47][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 17:40:48][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 17:40:48][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 17:40:49][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 17:40:49][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (d8ca619b-3d34-480e-af9a-616672a8b04b)] -> xpath: //*[@id='submit']]
+[14/07/28 17:40:51][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 17:40:52][ERROR][com.util.LogWebDriverEventListener-43] WebDriver error:
+org.openqa.selenium.StaleElementReferenceException: Element is no longer attached to the DOM
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_41'
+Session ID: d8ca619b-3d34-480e-af9a-616672a8b04b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=14.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:187)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.findElement(RemoteWebElement.java:171)
+	at org.openqa.selenium.remote.RemoteWebElement.findElementByTagName(RemoteWebElement.java:260)
+	at org.openqa.selenium.By$ByTagName.findElement(By.java:320)
+	at org.openqa.selenium.remote.RemoteWebElement.findElement(RemoteWebElement.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:327)
+	at com.sun.proxy.$Proxy13.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.findElement(EventFiringWebDriver.java:398)
+	at com.basepages.Loadingpage.searchResult(Loadingpage.java:60)
+	at com.testcases.TC01_Login.loginSucess(TC01_Login.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Element is no longer attached to the DOM
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_41'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(resource://fxdriver/modules/web_element_cache.js:7237)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous1023501743307231321webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:6839)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous1023501743307231321webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8271)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous1023501743307231321webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8293)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous1023501743307231321webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10272)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous1023501743307231321webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10277)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous1023501743307231321webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10217)
+[14/07/28 17:44:28][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 17:44:28][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 17:44:28][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 17:44:35][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 17:44:36][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 17:44:39][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (6f3c201f-eb5f-4244-907b-1291ce132e1b)] -> xpath: //a[@class='first']]
+[14/07/28 17:44:41][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 17:44:42][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 17:44:42][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 17:44:42][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 17:44:42][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (6f3c201f-eb5f-4244-907b-1291ce132e1b)] -> xpath: //*[@id='submit']]
+[14/07/28 17:44:45][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 17:44:45][ERROR][com.util.LogWebDriverEventListener-43] WebDriver error:
+org.openqa.selenium.StaleElementReferenceException: Element is no longer attached to the DOM
+Command duration or timeout: 479 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_41'
+Session ID: 6f3c201f-eb5f-4244-907b-1291ce132e1b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=14.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:187)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.findElement(RemoteWebElement.java:171)
+	at org.openqa.selenium.remote.RemoteWebElement.findElementByTagName(RemoteWebElement.java:260)
+	at org.openqa.selenium.By$ByTagName.findElement(By.java:320)
+	at org.openqa.selenium.remote.RemoteWebElement.findElement(RemoteWebElement.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:327)
+	at com.sun.proxy.$Proxy13.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.findElement(EventFiringWebDriver.java:398)
+	at com.basepages.Loadingpage.searchResult(Loadingpage.java:60)
+	at com.testcases.TC01_Login.loginSucess(TC01_Login.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Element is no longer attached to the DOM
+Build info: version: '2.31.0', revision: '1bd294d', time: '2013-02-27 20:53:56'
+System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_41'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(resource://fxdriver/modules/web_element_cache.js:7237)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7780869399182804721webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:6839)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7780869399182804721webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8271)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7780869399182804721webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8293)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7780869399182804721webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10272)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7780869399182804721webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10277)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/DORA~1.ZHA/AppData/Local/Temp/anonymous7780869399182804721webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10217)
+[14/07/28 18:01:25][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 18:01:25][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 18:01:25][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 18:01:34][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 18:01:34][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 18:01:38][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (30151efd-07d1-413b-87d9-6e11bf856bb2)] -> xpath: //a[@class='first']]
+[14/07/28 18:01:39][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:01:40][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:01:40][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 18:01:41][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 18:01:41][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (30151efd-07d1-413b-87d9-6e11bf856bb2)] -> xpath: //*[@id='submit']]
+[14/07/28 18:01:43][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 18:01:44][INFO][com.basepages.Loadingpage-57] 热门建议
+APP
+就可将【平凡】MP3 免费下载到手机
+艺人
+平凡生活
+歌曲
+平凡之路 - 朴树
+흔한 노래(平凡的歌) - 임창정
+平凡相依 - 丁当
+平凡的时间里 - 那我懂你意思了
+专辑
+平凡之路
+朴树
+平凡的爱
+U2
+平凡的歌… 平凡的旋律…
+임창정
+平凡
+黄韵玲
+用户
+搜“平凡”相关的用户 »
+精选集
+搜“平凡”相关的精选集 »
+标签
+搜“平凡”相关的歌曲标签 »
+更多结果
+[14/07/28 18:01:48][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 18:03:24][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 18:03:24][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 18:03:24][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 18:03:32][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 18:03:32][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 18:03:37][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (7949b98d-36fd-4c14-8119-4a7109b0bb05)] -> xpath: //a[@class='first']]
+[14/07/28 18:03:37][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:03:38][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:03:38][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 18:03:39][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 18:03:39][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (7949b98d-36fd-4c14-8119-4a7109b0bb05)] -> xpath: //*[@id='submit']]
+[14/07/28 18:03:46][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 18:03:49][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 18:07:26][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 18:07:26][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 18:07:26][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 18:07:34][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 18:07:34][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 18:07:41][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (19153fce-4a4c-44e4-9eb6-bdc56237dfa3)] -> xpath: //a[@class='first']]
+[14/07/28 18:07:41][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:07:42][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:07:42][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 18:07:43][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 18:07:43][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (19153fce-4a4c-44e4-9eb6-bdc56237dfa3)] -> xpath: //*[@id='submit']]
+[14/07/28 18:07:48][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 18:19:03][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 18:19:03][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 18:19:03][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 18:19:11][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 18:19:11][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 18:19:15][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (f3e7e854-67a9-4381-ae87-a225712793fe)] -> xpath: //a[@class='first']]
+[14/07/28 18:19:15][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:19:16][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:19:16][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 18:19:16][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 18:19:16][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (f3e7e854-67a9-4381-ae87-a225712793fe)] -> xpath: //*[@id='submit']]
+[14/07/28 18:19:19][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 18:19:23][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 18:20:52][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 18:20:52][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 18:20:52][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 18:20:59][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 18:20:59][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 18:21:04][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (09845f4a-9f59-49f9-bb04-a5a90cc1259f)] -> xpath: //a[@class='first']]
+[14/07/28 18:21:05][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:21:06][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:21:06][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 18:21:06][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 18:21:06][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (09845f4a-9f59-49f9-bb04-a5a90cc1259f)] -> xpath: //*[@id='submit']]
+[14/07/28 18:21:10][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 18:21:14][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 18:23:28][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 18:23:28][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 18:23:28][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 18:23:36][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 18:23:36][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 18:23:40][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (a98b5579-6aae-48dd-8df6-da19204a8708)] -> xpath: //a[@class='first']]
+[14/07/28 18:23:41][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:23:42][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:23:42][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 18:23:42][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 18:23:42][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (a98b5579-6aae-48dd-8df6-da19204a8708)] -> xpath: //*[@id='submit']]
+[14/07/28 18:23:46][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 18:23:50][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 18:39:56][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 18:39:56][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 18:39:56][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 18:40:06][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 18:40:06][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 18:40:10][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (665644cb-295d-40a1-bf73-c22ce23e47c2)] -> xpath: //a[@class='first']]
+[14/07/28 18:40:11][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:40:11][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:40:12][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 18:40:12][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 18:40:12][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (665644cb-295d-40a1-bf73-c22ce23e47c2)] -> xpath: //*[@id='submit']]
+[14/07/28 18:40:14][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 18:40:18][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 18:42:31][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 18:42:31][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 18:42:31][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 18:42:38][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 18:42:38][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 18:42:42][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (cb64d56a-646d-47c5-b88f-594fec2f5028)] -> xpath: //a[@class='first']]
+[14/07/28 18:42:43][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:42:44][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:42:44][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 18:42:45][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 18:42:45][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (cb64d56a-646d-47c5-b88f-594fec2f5028)] -> xpath: //*[@id='submit']]
+[14/07/28 18:42:47][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 18:42:52][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
+[14/07/28 18:44:28][INFO][com.util.TestCaseBase-57] running TEST Case:com.testcases.TC01_Login
+[14/07/28 18:44:28][INFO][com.util.TestCaseBase-102] onGrid=false
+[14/07/28 18:44:28][INFO][com.util.TestCaseBase-103] browserFlag=firefox
+[14/07/28 18:44:34][INFO][com.util.TestCaseBase-317] Setting...filename=testdata_TC01_Login.properties
+[14/07/28 18:44:35][INFO][com.util.LogWebDriverEventListener-19] WebDriver navigating to:'http://www.xiami.com/'
+[14/07/28 18:44:39][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (45050e98-84c0-4ff8-b53d-78451861b675)] -> xpath: //a[@class='first']]
+[14/07/28 18:44:40][INFO][com.util.Page-27] expected title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:44:40][INFO][com.util.Page-28] actual title=虾米网(xiami.com) - 高品质音乐互动社区
+[14/07/28 18:44:40][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #email from '' to 'jalin1989415@163.com'
+[14/07/28 18:44:41][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #password from '' to 'jalin415'
+[14/07/28 18:44:41][INFO][com.util.LogWebDriverEventListener-54] WebDriver clicking on[[FirefoxDriver: firefox on XP (45050e98-84c0-4ff8-b53d-78451861b675)] -> xpath: //*[@id='submit']]
+[14/07/28 18:44:46][INFO][com.util.LogWebDriverEventListener-29] WebDriver changing value in element found By.selector: #search > input.keyword from '' to '平凡'
+[14/07/28 18:44:52][ERROR][com.util.LogWebDriverEventListener-41] WebDriver error: Element not found By.tagName: h3
